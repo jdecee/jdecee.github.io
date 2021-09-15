@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+}
+
+.nav-section{
+  border: solid 1px black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-section:hover{
+  background-color: #9c7e31;
+}
+
+.nav-section:active{
+  background-color: red;
+}
+
+.nav-section a{
+  text-decoration: none;
+  color: white;
+
+}
+
+  
+  /* Fake image */
+  .fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  /* Footer */
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+  }
+ 
