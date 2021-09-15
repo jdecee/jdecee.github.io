@@ -1,5 +1,5 @@
 body{
-  background-color: blue;
+  background-color:black;
 }
 
 .nav-section{
@@ -44,6 +44,12 @@ body{
 
 }
 
+p {
+  color:red;
+  padding-right: 5px;
+}
+
+
 .center-form{
   display: flex;
   justify-content: center;
@@ -56,4 +62,4 @@ body{
     background: #ddd;
     margin-top: 20px;
   }
- 
+
